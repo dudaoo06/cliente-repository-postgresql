@@ -44,9 +44,3 @@ dotnet run
 ```
 
 Você verá um menu com as opções para criar, listar ou deletar clientes.
-
-## Autor
-
-- Nome: João da Silva  
-- RA: 123456789  
-- Turma: 3º ADS – Noite
