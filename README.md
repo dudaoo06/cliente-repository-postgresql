@@ -1,6 +1,5 @@
-# Trabalho de Banco de Dados - 2º Bimestre
-
-Este repositório contém a implementação de um projeto prático em **C#** com integração ao **PostgreSQL**, desenvolvido como parte da avaliação do 2º bimestre da disciplina de **Banco de Dados** no curso de Análise e Desenvolvimento de Sistemas.
+# Trabalho de Banco de Dados 
+Este repositório contém a implementação de um projeto prático em **C#** com integração ao **PostgreSQL**, desenvolvido como parte da avaliação da disciplina de **Banco de Dados** no curso de Análise e Desenvolvimento de Sistemas.
 
 O objetivo do trabalho é demonstrar o domínio das operações básicas de persistência de dados através da implementação de três métodos que interagem com o banco de dados (Create, Read e Delete).
 
@@ -24,10 +23,6 @@ ClienteRepositoryProjeto/
 ├── Program.cs # Interface de console para interação com o usuário
 ├── ClienteRepository.cs # Classe responsável pela comunicação com o banco de dados
 └── README.md # Documentação do projeto
-
-yaml
-Copy
-Edit
 
 ---
 
